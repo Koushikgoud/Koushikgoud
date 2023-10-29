@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Koushik
 
-<!--
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Koushikgoud)
 **Koushikgoud/Koushikgoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ I am a [Research Assistant] at Kennesaw State University where I am coincidental
 - ⚡ Fun fact: This page is too small for this.
 
 ![Koushikgoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koushikgoud&show_icons=true)
--->
+
